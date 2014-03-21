@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1E8D35F-3BBF-4FF7-B765-A9CC6A5D462A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MeetMe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>951CFD61-A0C8-43A8-83EF-CEF992395A08</key>
+		<string>https://github.com/mpmattoni/MeetMe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MeetMe/MeetMe.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>951CFD61-A0C8-43A8-83EF-CEF992395A08</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mpmattoni/MeetMe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>951CFD61-A0C8-43A8-83EF-CEF992395A08</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>951CFD61-A0C8-43A8-83EF-CEF992395A08</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MeetMe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
